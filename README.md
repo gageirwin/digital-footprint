@@ -40,7 +40,7 @@
 | [Razer Synapse 3](https://www.razer.com/eu-en/synapse-3)                               | Download .exe                                                        |
 | [Kespersky](https://usa.kaspersky.com/)                                                | Download .exe                                                        |
 | [Steam Desktop Authenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator) | Download .zip                                                        |
-| [Posy's improved cursors for Windows 10](http://www.michieldb.nl/other/cursors/)       | Download .zip                                                        |
+| [Posy's Cursor Black](http://www.michieldb.nl/other/cursors/)                          | Download .zip                                                        |
 | [AtomicParsley](https://atomicparsley.sourceforge.net/)                                | Download .exe                                                        |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp)                                             | `pip install -U yt-dlp`                                              |
 | [gallery-dl](https://github.com/mikf/gallery-dl)                                       | `pip install -U gallery-dl`                                          |
