@@ -36,6 +36,8 @@
 | [Nextcloud](https://nextcloud.com/)                                                    | `winget install -e --id Nextcloud.NextcloudDesktop`                  |
 | [VirtualBox](https://www.virtualbox.org/)                                              | `winget install -e --id Oracle.VirtualBox`                           |
 | [VLC media player](https://www.videolan.org/vlc/)                                      | `winget install -e --id VideoLAN.VLC`                                |
+| [qBittorrent](https://www.qbittorrent.org/)                                            | `winget install -e --id qBittorrent.qBittorrent`                     |
+| [7zip](https://www.7-zip.org/)                                                         | Download .exe                                                        |
 | [VSCode](https://code.visualstudio.com/)                                               | Download .exe                                                        |
 | [Razer Synapse 3](https://www.razer.com/eu-en/synapse-3)                               | Download .exe                                                        |
 | [Kespersky](https://usa.kaspersky.com/)                                                | Download .exe                                                        |
@@ -45,18 +47,11 @@
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp)                                             | `pip install -U yt-dlp`                                              |
 | [gallery-dl](https://github.com/mikf/gallery-dl)                                       | `pip install -U gallery-dl`                                          |
 | [HEVC Video Extension](https://www.codecguide.com/media_foundation_codecs.htm)         | Follow "Alternative method"                                          |
+| [Discord](https://discord.com/app)                                                     | Progressive Web App                                                  |
+| [Spotify](https://open.spotify.com/)                                                   | Progressive Web App                                                  |
+| [Google Messages](https://messages.google.com/)                                        | Progressive Web App                                                  |
 
-### Progressive Web Apps
-
-| App Name                                        |
-| ----------------------------------------------- |
-| [Discord](https://discord.com/app)              |
-| [Spotify](https://open.spotify.com/)            |
-| [Google Messages](https://messages.google.com/) |
-
-## Extensions
-
-### Chromium Extensions
+## Chromium Extensions
 
 | Extension Name                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -74,20 +69,20 @@
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)                                           |
 | [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)                                           |
 
-### VSCode/VSCodium Extensions
+## VSCode/VSCodium Extensions
 
-| Extension Name                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------- |
-| [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)                  |
-| [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) |
-| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)     |
-| [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                           |
-| [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                              |
-| [Fix JSON](https://marketplace.visualstudio.com/items?itemName=oliversturm.fix-json)                                |
-| [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)                      |
-| [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                   |
-| [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)                                        |
-| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                            |
-| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             |
-| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                      |
-| [Pylance (VSCode Only)](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)               |
+| Extension Name                                                                                                      | Notes       |
+| ------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)                  |             |
+| [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) |             |
+| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)     |             |
+| [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                           |             |
+| [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                              |             |
+| [Fix JSON](https://marketplace.visualstudio.com/items?itemName=oliversturm.fix-json)                                |             |
+| [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)                      |             |
+| [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                   |             |
+| [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)                                        |             |
+| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                            |             |
+| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             |             |
+| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                      |             |
+| [Pylance ](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)                            | VSCode Only |
