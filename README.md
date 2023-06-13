@@ -2,8 +2,8 @@
 
 # Software
 
-| App Name                                                                               | How To Install                                                       |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| App Name                                                                               | How To Install                                                       | Notes                                    |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------- |
 | [Paint.net](https://www.getpaint.net/)                                                 | `winget install -e --id dotPDNLLC.paintdotnet`                       |
 | [Steam](https://store.steampowered.com/)                                               | `winget install -e --id Valve.Steam`                                 |
 | [VSCodium](https://vscodium.com/)                                                      | `winget install -e --id VSCodium.VSCodium`                           |
@@ -15,7 +15,7 @@
 | [Signal](https://signal.org/en/)                                                       | `winget install -e --id OpenWhisperSystems.Signal`                   |
 | [Python 3.11](https://www.python.org/)                                                 | `winget install -e --id Python.Python.3.11`                          |
 | [AutoHotkey](https://www.autohotkey.com/)                                              | `winget install -e --id AutoHotkey.AutoHotkey`                       |
-| [yubico-authenticator](https://www.yubico.com/products/yubico-authenticator/)          | `winget install -e --id Yubico.Authenticator`                        |
+| [yubico-authenticator](https://www.yubico.com/products/yubico-authenticator/)          | `winget install -e --id Yubico.Authenticator -v 5.1.0`               | Version 6.0.2 removed minimizing to tray |
 | [Private Internet Access](https://www.privateinternetaccess.com/)                      | `winget install -e --id PrivateInternetAccess.PrivateInternetAccess` |
 | [GitHub Desktop](https://desktop.github.com/)                                          | `winget install -e --id GitHub.GitHubDesktop`                        |
 | [Notepad++](https://notepad-plus-plus.org/downloads/)                                  | `winget install -e --id Notepad++.Notepad++`                         |
