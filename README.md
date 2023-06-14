@@ -68,6 +68,8 @@
 | [SteamDB](https://chrome.google.com/webstore/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon?hl=en)                                                       |
 | [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)                                           |
 | [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)                                           |
+| [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en)                                           |
+| [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=en)                                   |
 
 ## VSCode/VSCodium Extensions
 
