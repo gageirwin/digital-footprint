@@ -1,5 +1,7 @@
 # My Desktop
 
+OS: Windows 11
+
 # Software
 
 | App Name                                                                               | How To Install                                                       | Notes                                    |
