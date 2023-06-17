@@ -1,0 +1,42 @@
+{
+  "author": "",
+  "description": "GitHub Dark Dimmed Theme",
+  "key": "",
+  "manifest_version": 3,
+  "name": "GitHub Dark Dimmed",
+  "theme": {
+    "colors": {
+      "bookmark_text": [173, 186, 199],
+      "frame": [79, 83, 89],
+      "frame_inactive": [79, 83, 89],
+      "frame_incognito": [79, 83, 89],
+      "frame_incognito_inactive": [79, 83, 89],
+      "ntp_background": [45, 51, 59],
+      "ntp_header": [205, 217, 229],
+      "ntp_text": [205, 217, 229],
+      "omnibox_background": [30, 34, 40],
+      "omnibox_text": [205, 217, 229],
+      "tab_background_text": [173, 186, 199],
+      "tab_background_text_inactive": [173, 186, 199],
+      "tab_background_text_incognito": [173, 186, 199],
+      "tab_background_text_incognito_inactive": [173, 186, 199],
+      "tab_text": [205, 217, 229],
+      "toolbar": [45, 51, 59],
+      "toolbar_button_icon": [173, 186, 199]
+    },
+    "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_frame_inactive": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png"
+    },
+    "tints": {
+      "background_tab": [-1.0, -1.0, -1.0],
+      "buttons": [-1.0, -1.0, -1.0],
+      "frame": [-1.0, -1.0, -1.0],
+      "frame_inactive": [-1.0, -1.0, -1.0],
+      "frame_incognito": [-1.0, -1.0, -1.0],
+      "frame_incognito_inactive": [-1.0, -1.0, -1.0]
+    }
+  },
+  "version": "1"
+}
