@@ -72,21 +72,22 @@ OS: Windows 11
 | [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=en)                                           |
 | [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj?hl=en)                                           |
 | [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=en)                                   |
+| [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg/related?hl=en)                                           |
 
 ## VSCode/VSCodium Extensions
 
-| Extension Name                                                                                                      | Notes       |
-| ------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)                  |             |
-| [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) |             |
-| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)     |             |
-| [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                           |             |
-| [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                              |             |
-| [Fix JSON](https://marketplace.visualstudio.com/items?itemName=oliversturm.fix-json)                                |             |
-| [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)                      |             |
-| [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                   |             |
-| [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)                                        |             |
-| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                            |             |
-| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             |             |
-| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                      |             |
-| [Pylance ](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)                            | VSCode Only |
+| Extension Name                                                                                                      | Notes              |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)                  |                    |
+| [AutoHotkey Plus Plus](https://marketplace.visualstudio.com/items?itemName=mark-wiemer.vscode-autohotkey-plus-plus) |                    |
+| [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)     |                    |
+| [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)                           |                    |
+| [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)                              |                    |
+| [Fix JSON](https://marketplace.visualstudio.com/items?itemName=oliversturm.fix-json)                                |                    |
+| [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)                      | GitHub Dark Dimmed |
+| [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)                   |                    |
+| [isort](https://marketplace.visualstudio.com/items?itemName=ms-python.isort)                                        |                    |
+| [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)                            |                    |
+| [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             |                    |
+| [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                      |                    |
+| [Pylance ](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)                            | VSCode Only        |
