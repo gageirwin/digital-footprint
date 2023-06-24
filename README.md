@@ -1,8 +1,8 @@
-# My Desktop
+# Desktop
 
 OS: Windows 11
 
-# Software
+## Software
 
 | App Name                                                                               | How To Install                                                                                     | Notes                                    |
 | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -54,7 +54,9 @@ OS: Windows 11
 | [Spotify](https://open.spotify.com/)                                                   | Progressive Web App                                                                                |                                          |
 | [Google Messages](https://messages.google.com/)                                        | Progressive Web App                                                                                |                                          |
 
-## Chromium Extensions
+## Extensions
+
+### Chromium Extensions
 
 | Extension Name                                                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +77,7 @@ OS: Windows 11
 | [Cookie AutoDelete](https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh?hl=en)                                   |
 | [Extensity](https://chrome.google.com/webstore/detail/extensity/jjmflmamggggndanpgfnpelongoepncg/related?hl=en)                                           |
 
-## VSCode/VSCodium Extensions
+### VSCode/VSCodium Extensions
 
 | Extension Name                                                                                                      | Notes              |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
@@ -92,3 +94,29 @@ OS: Windows 11
 | [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             |                    |
 | [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)                                      |                    |
 | [Pylance ](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)                            | VSCode Only        |
+
+# Server
+
+OS: Unraid
+
+## Docker
+
+| App Name          | Maintainer   |
+| ----------------- | ------------ |
+| Plex              | linuxserver  |
+| Tdarr             | Selfhosters  |
+| Tdarr Node        | Selfhosters  |
+| AdGuard-Home      | Siwat2545    |
+| UptimeKuma        | CorneliousJD |
+| Cloudflare-DDNS   | Selfhosters  |
+| speedtest-tracker | Selfhosters  |
+| swag              | linuxserver  |
+| NextCloud         | linuxserver  |
+| mariadb           | linuxserver  |
+| Ombi              | linuxserver  |
+| Qbittorent & VPN  | Binhex       |
+| Prowlarr          | linuxserver  |
+| Radarr            | linuxserver  |
+| Sonarr            | linuxserver  |
+| ArchiSteamFarm    | L4stIdi0t    |
+| Tautulli          | Tautulli     |
