@@ -83,7 +83,7 @@
 | ![](images/icons/firefox.png)        | [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)          | `winget install -e --id Mozilla.Firefox`                         |
 | ![](images/icons/mullvadbrowser.png) | [Mullvad Browser](https://mullvad.net/en/download/browser/windows) | [Download](https://mullvad.net/en/download/browser/win64/latest) |
 | ![](images/icons/tor.png)            | [Tor Browser](https://www.torproject.org/download/)                | [Download](https://www.torproject.org/download/)                 |
-| ![](images/icons/librewolf.png)      | ⭐[LibreWolf](https://librewolf.net/)                               | `winget install -e --id LibreWolf.LibreWolf`                     |
+| ![](images/icons/librewolf.png)      | [LibreWolf](https://librewolf.net/)⭐                               | `winget install -e --id LibreWolf.LibreWolf`                     |
 | ![](images/icons/vivaldi.png)        | [Vivaldi](https://vivaldi.com/)                                    | `winget install -e --id VivaldiTechnologies.Vivaldi`             |
 
 ### Web Apps
