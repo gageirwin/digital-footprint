@@ -135,8 +135,8 @@
 
 #### FireFox Browsers
 
- - [userChrome.css](/app%20tweaks/firefox%20tweaks/userChrome.css)
- - [Sidebery CSS](/app%20tweaks/firefox%20tweaks/sidebery_styles.css)
+ - [userChrome.css](/tweaks/firefox/userChrome.css)
+ - [Sidebery CSS](/tweaks/firefox/sidebery_styles.css)
 
 ## Server
 
