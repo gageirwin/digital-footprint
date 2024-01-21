@@ -11,7 +11,8 @@
     - [Extensions](#extensions)
       - [Web Browsers](#web-browsers-1)
       - [Visual Studio Code](#visual-studio-code)
-    - [App Tweaks](#app-tweaks)
+    - [Tweaks](#tweaks)
+      - [Windows](#windows)
       - [FireFox Browsers](#firefox-browsers)
   - [Server](#server)
     - [System Specs](#system-specs-1)
@@ -131,7 +132,11 @@
 | ![](images/icons/randomeverything.png)  | [Random Everything](https://marketplace.visualstudio.com/items?itemName=helixquar.randomeverything)                       | https://github.com/helixquar/randomeverything.git         |
 | ![](images/icons/togglequotes.png)      | [Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes)                       | https://github.com/BriteSnow/vscode-toggle-quotes.git     |
 
-### App Tweaks
+### Tweaks
+
+#### Windows
+
+ - [Disable Bing Search Suggestions](/tweaks/windows/DisableSearchBoxSuggestions.reg)
 
 #### FireFox Browsers
 
