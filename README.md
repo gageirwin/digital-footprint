@@ -28,19 +28,19 @@
 
 ### System Specs
 
-|               |                |
-| :------------ | :------------- |
-| CPU           |                |
-| GPU           |                |
-| Power Supply  |                |
-| Motherboard   |                |
-| OS            | Windows 11 Pro |
-| Case          |                |
-| CPU Cooler    |                |
-| RAM           |                |
-| Hard Drive #1 |                |
-| Hard Drive #2 |                |
-| Hard Drive #3 |                |
+|               |                                            |
+| :------------ | :----------------------------------------- |
+| CPU           | Intel Core i7-13700k                       |
+| GPU           | EVGA GeForce RTX 3090 Ti FTW3 Ultra Gaming |
+| Power Supply  | EVGA Supernova 1200 P3                     |
+| Motherboard   | ASUS TUF Gaming Z690-Plus                  |
+| OS            | Windows 11 Pro                             |
+| Case          |                                            |
+| CPU Cooler    | ARCTIC Liquid Freezer II 360               |
+| RAM           |                                            |
+| Hard Drive #1 | Crucial P3 Plus 4TB PCIe Gen4              |
+| Hard Drive #2 | SAMSUNG 970 EVO Plus SSD 1TB               |
+| Hard Drive #3 | WD_Black SN750 1TB                         |
 
 ### Apps
 |                                         | App Name                                                                       | Download                                                                                                        |
@@ -103,7 +103,7 @@
 | ![](images/icons/decentraleyes.png)                    | [Decentraleyes](https://decentraleyes.org/)                                             | [Download](https://chromewebstore.google.com/detail/ldpochfccmkkmhdbclfhpagapcfdljkj)                           | [Download](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)              |
 | ![](images/icons/don't_track_me_google.png)            | [Don't track me Google](https://github.com/Rob--W/dont-track-me-google)                 | [Download](https://chromewebstore.google.com/detail/dont-track-me-google/gdbofhhdmcladcmmfjolgndfkpobecpg)      | [Download](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/)      |
 | ![](images/icons/firefox_multi-account_containers.png) | [Firefox Multi-Account Containers](https://github.com/mozilla/multi-account-containers) | []()                                                                                                            | [Download](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)   |
-| ![](images/icons/enhancer_for_youtube.png)             | [Enhancer for YouTube™](https://www.mrfdev.com/enhancer-for-youtube)                    | [Download](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)      | [~~Download~~](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)   |
+| ![](images/icons/enhancer_for_youtube.png)             | [Enhancer for YouTube™](https://www.mrfdev.com/enhancer-for-youtube)                    | [Download](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)      | [Download](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)       |
 | ![](images/icons/reddit_enhancement_suite.png)         | [Reddit Enhancement Suite](https://redditenhancementsuite.com/)                         | [Download](https://chromewebstore.google.com/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb)  | [Download](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)   |
 | ![](images/icons/return_youtube_dislike.jpg)           | [Return YouTube Dislike](https://returnyoutubedislike.com/)                             | [Download](https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)    | [Download](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)    |
 | ![](images/icons/search_by_image.png)                  | [Search by Image](https://github.com/dessant/search-by-image)                           | [Download](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)           | [Download](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)            |
@@ -147,19 +147,19 @@
 
 ### System Specs
 
-|               |               |
-| :------------ | :------------ |
-| CPU           |               |
-| GPU           |               |
-| Power Supply  |               |
-| Motherboard   |               |
-| OS            | UNRAID 6.12.4 |
-| Case          |               |
-| CPU Cooler    |               |
-| RAM           |               |
-| Hard Drive #1 |               |
-| Hard Drive #2 |               |
-| Hard Drive #3 |               |
+|               |                        |
+| :------------ | :--------------------- |
+| CPU           | Intel Core i7-12700K   |
+| GPU           | N/A                    |
+| Power Supply  |                        |
+| Motherboard   | ASROCK Z690 PG Riptide |
+| OS            | UNRAID 6.12.4          |
+| Case          |                        |
+| CPU Cooler    |                        |
+| RAM           |                        |
+| Hard Drive #1 |                        |
+| Hard Drive #2 |                        |
+| Hard Drive #3 |                        |
 
 [UNRAID CONNECT](https://connect.myunraid.net/dashboard)
 
