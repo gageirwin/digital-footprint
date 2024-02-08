@@ -1,7 +1,7 @@
 :root {
     --autohide-sidebar-extended: 230px; /* width of panel extended */
     --autohide-sidebar-collapsed: 68px; /* width of panel collapsed */
-    --sidebar-height: 96vh;
+    --sidebar-height: 100%;
 }
 
 /* --------Sidebery Auto-hiding Sidebar ----------- */
