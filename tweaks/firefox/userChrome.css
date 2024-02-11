@@ -16,12 +16,12 @@
 
 /* width of panel (grey box) on hover */
 /* uncomment this section if you want the webpage to move when your tabs are extended- otherwise covers */ 
-/* #main-window:not([extradragspace="true"])
+#main-window:not([extradragspace="true"])
     #sidebar-box[sidebarcommand="_3c078156-979c-498b-8990-85f7987dd929_-sidebar-action"]:not([hidden]):hover {
     width: var(--autohide-sidebar-extended) !important;
     min-width: unset !important;
     z-index: 1;
-} */
+}
 
 /* width of tabs */
 #main-window:not([extradragspace="true"]) 
